@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vamsi Krishna</h1>
-<h3 align="center">Incoming Software Engineer @ Google · ex-Amazon · Backend & AI Developer Tools</h3>
+<h3 align="center">Software Engineer @ Google · ex-Amazon · Backend & AI Developer Tools</h3>
 
 <p align="center">
   <a href="https://portfolio-beryl-nine-58.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
@@ -10,7 +10,7 @@
 ---
 
 ### 🧑‍💻 About me
-- 💼 **Incoming Software Engineer at Google** (Nov 2026) · previously **Software Engineer at Amazon**
+- 💼 **Software Engineer at Google** · previously **Software Engineer at Amazon**
 - 🎓 Computer Science graduate from **IIIT Jabalpur**
 - 🏗️ I build full-stack products end to end: React / Next.js frontends, Node.js / Express / Django backends, and SQL & NoSQL data stores
 - 🤖 Lately I've been building **AI agents and developer tools**: Atlassian Forge + Rovo apps, MCP servers, and agentic commerce
